@@ -1,0 +1,15 @@
+#users-container {
+  display: flex;
+  gap: 2em;
+}
+
+.user-card {
+  background-color: #fff;
+  color: #333;
+  padding: 2em;
+  box-shadow: 3px 3px 3px;
+  border: 2px solid black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
